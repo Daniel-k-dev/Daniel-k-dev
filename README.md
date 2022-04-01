@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Dev-Lab&fontSize=70)
 ### Hi there 👋
 <hr>
-<div align="center">## 🔭 Learning 🔭</div>
+<div align="center"> 
+## 🔭 Learning 🔭
+</div>
 <div align=center>
 [![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white)](https://github.com/Daniel-k-dev/Beakjoon)
 </div>
