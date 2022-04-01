@@ -3,9 +3,9 @@
 <div align="center">
     <h2> Hi there 👋 </h2>
 </div>
-<hr>
+
     <h3> 🔭 Learning 🔭 </h3>
-<hr>
+
 <div align="center">
  <a href="https://github.com/Daniel-k-dev/Beakjoon"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>
  
