@@ -1,13 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Dev-Lab&fontSize=70)
 
-<div align="center"></div>
+<div align="center">
     <h3> Hi there 👋 </h3>
 <hr>
     <h3> 🔭 Learning 🔭 </h3>
 <hr>
-[![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white)](https://github.com/Daniel-k-dev/Beakjoon)
-
-
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white“>
+</div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
