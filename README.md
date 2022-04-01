@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Dev-Lab&fontSize=70)
 
 <div align="center">
-    <h3> Hi there 👋 </h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-k-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    <h2> Hi there 👋 </h2>
 </div>
 <hr>
     <h3> 🔭 Learning 🔭 </h3>
