@@ -1,9 +1,14 @@
+
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Dev-Lab&fontSize=70)
-### Hi there 👋
+
+<div align="center">
+  ### Hi there 👋
 <hr>
-<div align="center"> 
-## 🔭 Learning 🔭
-[![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white)](https://github.com/Daniel-k-dev/Beakjoon)
+  ## 🔭 Learning 🔭
+
+<hr>
+  [![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white)](https://github.com/Daniel-k-dev/Beakjoon)
+
 </div>
 
 Here are some ideas to get you started:
