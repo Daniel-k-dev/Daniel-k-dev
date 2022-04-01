@@ -10,8 +10,3 @@
  
 </div>
 
-<head> 
- <script>
-  document.write("test");
- </script>
-</head>
