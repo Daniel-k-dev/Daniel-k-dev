@@ -3,8 +3,6 @@
 <hr>
 <div align="center"> 
 ## 🔭 Learning 🔭
-</div>
-<div align=center>
 [![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white)](https://github.com/Daniel-k-dev/Beakjoon)
 </div>
 
