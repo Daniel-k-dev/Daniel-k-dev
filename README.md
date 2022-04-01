@@ -1,4 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Dev-Lab&fontSize=70)
 ### Hi there 👋
+
+## 🔭 Learning 🔭
+[![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=black)](https://github.com/Daniel-k-dev/Beakjoon)
 
 <!--
 **Daniel-k-dev/Daniel-k-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
