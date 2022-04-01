@@ -5,7 +5,7 @@
 <hr>
     <h3> 🔭 Learning 🔭 </h3>
 <hr>
-    [![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white)](https://github.com/Daniel-k-dev/Beakjoon)
+[![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white)](https://github.com/Daniel-k-dev/Beakjoon)
 
 
 Here are some ideas to get you started:
