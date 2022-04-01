@@ -9,3 +9,9 @@
  <a href="https://github.com/Daniel-k-dev/Beakjoon"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>
  
 </div>
+
+<head> 
+ <script>
+  document.write("test");
+ </script>
+</head>
