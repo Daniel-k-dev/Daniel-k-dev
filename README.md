@@ -9,7 +9,7 @@
  <img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=CSS3&logoColor=white"/>
  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=black"/>  
 <img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=Node.js&logoColor=black"/>
-
+<br>
 <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-007396?style=flat&logo=MySQL&logoColor=white"/>
