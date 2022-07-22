@@ -14,8 +14,9 @@
  <img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-007396?style=flat&logo=MySQL&logoColor=white"/>
 <br>
+<a href = "https://velog.io/@juyeon10120">
 <img src="https://img.shields.io/badge/Velog-62E6BE?style=flat&logo=Velog&logoColor=white"/>
-
+</a>
 
 </p>
 
