@@ -13,6 +13,10 @@
 <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-007396?style=flat&logo=MySQL&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Velog-62E6BE?style=flat&logo=Velog&logoColor=white"/>
+
+
 </p>
 
 </div>
