@@ -17,6 +17,9 @@
 <a href = "https://velog.io/@juyeon10120">
 <img src="https://img.shields.io/badge/Velog-62E6BE?style=flat&logo=Velog&logoColor=white"/>
 </a>
+<a href = "https://www.acmicpc.net/user/juyeon10120">
+<img src="https://img.shields.io/badge/Beakjoon-white?style=flat&logo=Beakjoon&logoColor=white"/>
+</a>
 
 </p>
 
